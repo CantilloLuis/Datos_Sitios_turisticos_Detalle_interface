@@ -1,77 +1,5 @@
 {
-  "sitios_en_recyclerview":[
-    {
-      "titles":"Plaza España",
-      "details":"Ubicacion: Está situado en el parque de María Luisa de la ciudad de Sevilla, España.",
-      "images":"https://static9.depositphotos.com/1038919/1181/i/600/depositphotos_11810481-stock-photo-bridge-of-plaza-de-espaa.jpg",
-      "rating":"10",
-      "rating2":"5.0"
-    },
-    {
-      "titles":"Setas de la Encarnación.",
-      "details":"Ubicacion: Esta obra está ubicada entre la plaza de la Encarnación y la plaza mayor de Sevilla, España.",
-      "images":"https://www.visitarsevilla.com/wp-content/uploads/2020/03/sevilla-12.jpg",
-      "rating":"8",
-      "rating2":"4.0"
-    },
-    {
-      "titles":"Iglesia san luis de los franceses.",
-      "details":"Ubicacion: Esta iglesia se encuentra ubicada en el número 27 de la calle San Luis, dividiendo los barrios de la Feria y San Julián en Sevilla, España.",
-      "images":"https://offloadmedia.feverup.com/sevillasecreta.co/wp-content/uploads/2016/09/20103007/san-luis-de-los-franceses.jpg",
-      "rating":"7",
-      "rating2":"3.5"
-    },
-    {
-      "titles":"Reales Alcazares.",
-      "details":"Ubicacion: Patio de Banderas, s/n, 41004 Sevilla, España",
-      "images":"https://ep01.epimg.net/elviajero/imagenes/2020/10/22/actualidad/1603354702_198953_1603365325_noticia_normal.jpg",
-      "rating":"8",
-      "rating2":"4.0"
-    },
-    {
-      "titles":"Parque de María Luisa.",
-      "details":"Ubicacion: P.º de las Delicias, s/n, 41013 Sevilla, España",
-      "images":"https://media-cdn.tripadvisor.com/media/photo-s/12/6a/30/c5/fabulosa-arquitectura.jpg",
-      "rating":"9",
-      "rating2":"4.5"
-    },
-    {
-      "titles":"Museo de Bellas Artes.",
-      "details":"Ubicacion: Pl. del Museo, 9, 41001 Sevilla, España",
-      "images":"https://static3-sevilla.abc.es/media/sevilla/2018/11/26/s/museo-bellas-artes-kVDE--1200x630@abc.JPG",
-      "rating":"8",
-      "rating2":"4.0"
-    },
-    {
-      "titles":"La Catedral.",
-      "details":"Ubicacion: Av. de la Constitución, s/n, 41004 Sevilla, España",
-      "images":"https://upload.wikimedia.org/wikipedia/commons/2/23/CatedraldeSevilla2.jpg",
-      "rating":"8",
-      "rating2":"4.0"
-    },
-    {
-      "titles":"La torre de Giralda.",
-      "details":"Ubicacion: Av. de la Constitución, s/n, 41004 Sevilla, España",
-      "images":"https://cdn.getyourguide.com/img/location/5e300281cb21f-wide.jpeg/88.jpg",
-      "rating":"7",
-      "rating2":"3.5"
-    },
-    {
-      "titles":"Plaza de toros de la Maestranza.",
-      "details":"Ubicacion: La plaza de toros de la Maestranza se encuentra en el barrio del Arenal de Sevilla, Andalucía, España.",
-      "images":"https://s0.wklcdn.com/image_115/3453850/20792875/13024719Master.jpg",
-      "rating":"8",
-      "rating2":"4.0"
-    }
-    ,{
-      "titles":"Isla de la Cartuja.",
-      "details":"Ubicacion: La isla de la Cartuja es un terreno de la ciudad de Sevilla situado entre dos brazos del río Guadalquivir, uno río vivo y el otro una dársena.",
-      "images":"https://imgs-akamai.mnstatic.com/71/fa/71faae529da08ea62ae83481e4eec43a.jpg",
-      "rating":"7",
-      "rating2":"3.5"
-    }
-  ],
-  "sitios_en_interface_detalle":[
+"sitios_en_interface_detalle":[
        {
          
       "titles":"Setas de la Encarnación.",
@@ -82,7 +10,7 @@
       "sitios_recomendados":"Museo Antiquarium, La torre de oro, la Giralda."
      
        },
-     {
+       {
          
       "titles":"Plaza España",
       "images":"https://static9.depositphotos.com/1038919/1181/i/600/depositphotos_11810481-stock-photo-bridge-of-plaza-de-espaa.jpg",
@@ -92,8 +20,7 @@
       "sitios_recomendados":"Casa jacinto, club allard, charca, faborit, tradicion."
      
        },
-    
-    {
+         {
          
       "titles":"Iglesia san luis de los franceses.",
       "images":"https://offloadmedia.feverup.com/sevillasecreta.co/wp-content/uploads/2016/09/20103007/san-luis-de-los-franceses.jpg",
@@ -113,8 +40,8 @@
       "sitios_recomendados":"Bar Timbre, Arabesca Restaurant, Rincon de Beirut"
      
        },
-    {
-            
+         {
+         
       "titles":"Parque de María Luisa.",
       "images":"https://media-cdn.tripadvisor.com/media/photo-s/12/6a/30/c5/fabulosa-arquitectura.jpg",
       "details":"No hace falta disponer de mucho tiempo para recorrer los jardines más conocidos y queridos de la ciudad, que fueron donados a los sevillanos por María Luisa Fernanda de Borbón en 1914. Un desvío de su avenida central nos lleva hasta la estatua de Bécquer, costeada por los hermanos Álvarez Quintero cediendo los derechos de author de su comedia  La rima eterna. Lo más recomendable, antes de entrar en la aledaña Plaza de España, es dejarse perder por sus laberínticos caminos, estanques, fuentes y abundante vegetación.",
@@ -123,8 +50,9 @@
       "sitios_recomendados":"Sambos Shop, YateEl Miarma, The World Best Spanish Omelette"
      
        },
-    {
-       "titles":"Museo de Bellas Artes.",
+         {
+         
+      "titles":"Museo de Bellas Artes.",
       "images":"https://static3-sevilla.abc.es/media/sevilla/2018/11/26/s/museo-bellas-artes-kVDE--1200x630@abc.JPG",
       "details":"El museo más relevante de Sevilla es también la segunda pinacoteca de España, con una valiosa colección de pintura de la escuela barroca (Zurbarán, Murillo y Valdés Leal), y exposiciones invitadas de envergadura. Para los residentes en la UE, la entrada es gratis. Los domingos abre, así que es un buen día para visitar el mercadillo de arte en la misma Plaza del Museo.",
       "ubicacion":"Pl. del Museo, 9, 41001 Sevilla, España",
@@ -132,7 +60,8 @@
       "sitios_recomendados":"Bar Iscariote,  Bistro Los Tulipanes, La Chalá"
      
        },
-    {
+         {
+         
       "titles":"La Catedral.",
       "images":"https://upload.wikimedia.org/wikipedia/commons/2/23/CatedraldeSevilla2.jpg",
       "details":"El mayor templo gótico del mundo se alza en el corazón del casco histórico con su impresionante fachada, imponentes pórticos y un sobrecogedor interior, donde el altar mayor, escenario del baile de los seises (podrán verse de nuevo días antes de la Cuaresma), está a unos metros de la (supuesta) sepultura de Cristóbal Colón. Organiza visitas guiadas todos los días, a excepción del 1 y el 6 de enero y el 25 de diciembre. Este recorrido se realiza por Catedral gótica, las sacristías y la sala capitular renacentistas, el tesoro, la Giralda, el patio de los naranjos y la Iglesia del Salvador, ubicada en la plaza del Salvador, otra de las paradas imprescindibles de la ciudad.",
@@ -140,12 +69,8 @@
       "temperatura":"",
       "sitios_recomendados":"Abaceria del Postigo, Génova, Terraviva."
      
-       }
-   
-    ],
-    "sitios_en_recyclerview2":[
-      
-        {
+       },
+         {
          
       "titles":"La torre de Giralda.",
       "images":"https://cdn.getyourguide.com/img/location/5e300281cb21f-wide.jpeg/88.jpg",
@@ -153,6 +78,26 @@
       "ubicacion":"Av. de la Constitución, s/n, 41004 Sevilla, España",
       "temperatura":"",
       "sitios_recomendados":"Marisqueira UMA Sevilla, Maestro Marcelino, Osteria L´Oca Giuliva."
+     
+       },
+         {
+         
+      "titles":"Plaza de toros de la Maestranza.",
+      "images":"https://s0.wklcdn.com/image_115/3453850/20792875/13024719Master.jpg",
+      "details":"La Real Plaza de Toros de la Maestranza comienza cada año su temporada taurina el Domingo de Resurrección, día que coincide con el inicio de la Feria de Abril de Sevilla, y termina en septiembre-octubre. Los precios de las entradas oscilan entre los 25 euros, de la localidad al sol,hasta los 250 euros, dependiendo de la temporada y la corrida.  Este santuario taurino es un coso por el que han desfilado todos los grandes nombres del toreo. Juan Belmonte, Manolete o José Tomás entre los mejores célebres, sin olvidar a toreros que triunfaron como Curro Romero, Ordóñez, Rafael de Paula, Morante de la Puebla, Espartaco, etc.",
+      "ubicacion":"La plaza de toros de la Maestranza se encuentra en el barrio del Arenal de Sevilla, Andalucía, España.",
+      "temperatura":"",
+      "sitios_recomendados":"Restaurante Las Lapas, Heladería Puro & Bio Sevilla"
+     
+       },
+         {
+         
+      "titles":"Isla de la Cartuja.",
+      "images":"https://imgs-akamai.mnstatic.com/71/fa/71faae529da08ea62ae83481e4eec43a.jpg",
+      "details":"La Isla de la Cartuja, situada en la orilla oeste del río Guadalquivir, fue la sede de la Exposición Universal de Sevilla de 1992 y actualmente, es un importante Parque tecnológico. El Ayuntamiento de la ciudad y un conjunto de entes públicos y privados están trabajando para que sea zona totalmente sostenible a corto plazo. En esta isla creada para la Exposición Universal del 92 se encuentra uno de los espacios culturales más importantes de la ciudad, el Centro Andaluz de Arte Contemporáneo, que ocupa el antiguo Monasterio de la Cartuja.",
+      "ubicacion":"La isla de la Cartuja es un terreno de la ciudad de Sevilla situado entre dos brazos del río Guadalquivir, uno río vivo y el otro una dársena.",
+      "temperatura":"",
+      "sitios_recomendados":"Alcázar - Andalusí Tapas, La Cocina de Beatriz, Bar Kebab Traviesa."
      
        }
     ]
